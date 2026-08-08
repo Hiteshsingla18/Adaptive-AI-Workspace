@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(perl -v)",
+      "Bash(perl -pi -e \"s/#1e293b/#27272a/g; s/#64748b/#71717a/g; s/#1e293b40/#27272a40/g;\" AnalyticsPage.tsx)",
+      "Bash(perl -pi -e \"s/#334155/#3f3f46/g;\" AnalyticsPage.tsx)"
+    ]
+  }
+}
